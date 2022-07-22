@@ -79,4 +79,7 @@ body {
   .qr-code-component_inner_header {
     width: 17rem;
   }
+  .qr-code-component_inner_content {
+    width: 78%;
+  }
 }/*# sourceMappingURL=styles.css.map */

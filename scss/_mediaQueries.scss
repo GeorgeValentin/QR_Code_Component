@@ -2,8 +2,16 @@
     .qr-code-component {
         width: 18rem;
 
-        &_inner_header {
-            width: 17rem;
+        &_inner {
+
+            &_header {
+                width: 17rem;
+            }
+
+            &_content {
+                width: 78%;
+            }
+
         }
     }
 }
