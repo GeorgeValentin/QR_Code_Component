@@ -7,21 +7,3 @@
 ### Built with:
 #### - HTML
 #### - Scss
-
-## Screenshots
-
-### Desktop
-<p align="center">
-    <img
-        src="./screenshots/Desktop_ScreenShot.PNG"
-        alt="Website Desktop Screenshot"
-    >
-</p>
-
-### Mobile Phone
-<p align="center">
-    <img
-        src="./screenshots/Mobile_ScreenShot.PNG"
-        alt="Website Mobile Screenshot"
-    >
-</p>
