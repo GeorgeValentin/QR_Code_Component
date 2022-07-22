@@ -1,0 +1,38 @@
+// colors variables
+$white: hsl(0, 0%, 100%);
+$light-gray: hsl(212, 45%, 89%);
+$grayish-blue: hsl(220, 15%, 55%);
+$dark-blue: hsl(218, 44%, 22%);
+
+.flex {
+    display: flex;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.centered-flex-container {
+    justify-content: center;
+    align-items: center;
+}
+
+.text-centered {
+    text-align: center;
+}
+
+.rounded-borders {
+    border-radius: 1rem;
+}
+
+.thin-text-weight {
+    font-weight: 400;
+}
+
+.bold-text-weight {
+    font-weight: 700;
+}

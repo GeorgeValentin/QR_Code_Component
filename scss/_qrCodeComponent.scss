@@ -1,0 +1,35 @@
+.qr-code-component {
+    height: inherit;
+    width: 16rem;
+    margin: auto;
+
+    &_inner {
+        border: 1px solid black;
+
+        &_header {
+            width: 15rem;
+            padding: 0.5rem;
+    
+            &_image {
+                width: inherit;
+                height: inherit;
+            }
+        }
+
+        &_title {
+            margin: 0.5rem auto;
+            width: 83%;
+            font-size: 1.15rem;
+            color: $dark-blue;
+        }
+
+        &_content {
+            color: $grayish-blue;
+            width: 85%;
+            padding: 0 1rem 2rem;
+            font-size: 0.80rem;
+            margin: auto;
+        }
+    }
+
+}
