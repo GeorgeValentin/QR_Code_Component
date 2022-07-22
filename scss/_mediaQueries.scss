@@ -1,0 +1,9 @@
+@media (max-width: 375px) {
+    .qr-code-component {
+        width: 18rem;
+
+        &_inner_header {
+            width: 17rem;
+        }
+    }
+}

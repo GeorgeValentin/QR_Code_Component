@@ -70,4 +70,13 @@ body {
   padding: 0 1rem 2rem;
   font-size: 0.8rem;
   margin: auto;
+}
+
+@media (max-width: 375px) {
+  .qr-code-component {
+    width: 18rem;
+  }
+  .qr-code-component_inner_header {
+    width: 17rem;
+  }
 }/*# sourceMappingURL=styles.css.map */
