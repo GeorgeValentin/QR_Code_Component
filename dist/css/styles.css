@@ -79,6 +79,7 @@ body {
   }
   .qr-code-component_inner_header {
     width: 17rem;
+    padding: 1.15rem;
   }
   .qr-code-component_inner_content {
     width: 78%;
