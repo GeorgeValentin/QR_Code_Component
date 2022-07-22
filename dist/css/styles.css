@@ -38,6 +38,7 @@ body {
   font-size: 15px;
   font-family: "Outfit", sans-serif;
   height: 100vh;
+  background-color: hsl(212deg, 45%, 89%);
 }
 
 .qr-code-component {
@@ -47,6 +48,7 @@ body {
 }
 .qr-code-component_inner {
   border: 1px solid black;
+  background-color: hsl(0deg, 0%, 100%);
 }
 .qr-code-component_inner_header {
   width: 15rem;
