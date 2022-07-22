@@ -48,6 +48,7 @@ body {
 }
 .qr-code-component_inner {
   background-color: hsl(0deg, 0%, 100%);
+  box-shadow: 2px 2px 15px rgb(191, 184, 184);
 }
 .qr-code-component_inner_header {
   width: 15rem;
