@@ -81,6 +81,9 @@ body {
     width: 17rem;
     padding: 1.15rem;
   }
+  .qr-code-component_inner_title {
+    width: 75%;
+  }
   .qr-code-component_inner_content {
     width: 70%;
   }
