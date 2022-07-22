@@ -43,16 +43,16 @@ body {
 
 .qr-code-component {
   height: inherit;
-  width: 16rem;
+  width: 17.5rem;
   margin: auto;
 }
 .qr-code-component_inner {
-  border: 1px solid black;
   background-color: hsl(0deg, 0%, 100%);
 }
 .qr-code-component_inner_header {
   width: 15rem;
-  padding: 0.5rem;
+  margin: auto;
+  padding: 1.15rem 0.5rem 1rem;
 }
 .qr-code-component_inner_header_image {
   width: inherit;
