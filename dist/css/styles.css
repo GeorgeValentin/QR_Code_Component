@@ -75,7 +75,7 @@ body {
 
 @media (max-width: 375px) {
   .qr-code-component {
-    width: 18rem;
+    width: 20.2rem;
   }
   .qr-code-component_inner_header {
     width: 17rem;
